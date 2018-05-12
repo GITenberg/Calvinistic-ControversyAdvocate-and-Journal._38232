@@ -1,0 +1,31 @@
+_repo: Calvinistic-ControversyAdvocate-and-Journal._38232
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fisk, Wilbur
+    alias: Fisk, W. (Wilbur)
+    birthdate: 1792
+    deathdate: 1839
+    gutenberg_agent_id: '39328'
+    url: http://www.gutenberg.org/2009/agents/39328
+description: ''
+gutenberg_issued: '2011-12-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38232'
+  lccn: '38019168'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Predestination'
+- !lcsh 'Calvinism'
+- !lcc 'BX'
+- !lcsh 'Election (Theology)'
+title: "Calvinistic Controversy\r\nEmbracing a Sermon on Predestination and Election\
+  \ and Several Numbers, Formally Published in the Christian Advocate and Journal."
+url: http://www.gutenberg.org/ebooks/38232
